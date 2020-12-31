@@ -1,0 +1,7 @@
+.vscode/
+video/
+.vs/
+*.pyc
+__pycache__/
+cookie.txt
+知乎盐选专栏/
