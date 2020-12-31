@@ -15,7 +15,7 @@ pip install -r requirements.txt
 目前的做法: 浏览器登陆后把cookie粘贴到根目录的`cookie.txt`(如果不存在需要手动创建); cookie其实只复制`z_c0`项即可;
 
 3. 下载:  
-默认下载到了当前文件夹下的"知乎盐选专栏"
+默认下载到了当前文件夹下的"知乎盐选专栏";   
 下载某一个盐选专栏: 
 ```
 python column_downloader.py url
